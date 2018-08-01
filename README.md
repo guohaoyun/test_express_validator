@@ -1,2 +1,2 @@
-# restful_api
-一个restful风格的node项目。express+redis+MySQL。启动配置有空补充
+# test_express_validator
+使用express_validator框架
